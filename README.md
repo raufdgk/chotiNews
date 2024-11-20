@@ -1,0 +1,2 @@
+# chotiNews
+First repository
